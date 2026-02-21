@@ -77,6 +77,9 @@ const STYLES = {
   concept:
     'Speculative design concept art for a publication focused on near-future infrastructure or emerging technology (Harvard Design Magazine, Wired, Metropolis, or equivalent). Painterly but physically grounded — materials are named and specific, nothing generic. Every surface has a construction logic. Rendered at the boundary between architectural visualization and fine art illustration. Color palette drawn from the building\'s materials and climate, not from digital convention.',
 
+  illustration:
+    'Scientific journal figure style. Clean technical illustration with precise ink line work, labeled components, and annotation arrows. White or light cream background. Color used functionally for differentiation, not aesthetic. Cross-sections, diagrams, and labeled exploded views rendered with the precision of a Nature or Cell paper figure. No photorealism, no 3D rendering, no artistic lighting — the goal is clarity and information density, not beauty.',
+
   svg:
     'Output as animated SVG code. Self-contained and embeddable directly in HTML without external dependencies. Clean geometric forms, minimal paths, precise color palette. Animation timing specified in CSS @keyframes. No raster image references, no external fonts, no JavaScript. The SVG must render correctly in all modern browsers without additional assets.',
 };
